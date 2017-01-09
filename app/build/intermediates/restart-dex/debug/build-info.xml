@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="91806657355796"
+    token="-6172362077213174434"
+    verifier="MANIFEST_FILE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="89" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="33" />
+    <task
+        name="verifier"
+        duration="11" />
+
+    <artifact
+        location="/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/outputs/apk/app-debug.apk"
+        type="MAIN" />
+
+    <build
+        timestamp="91806657355796"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="21b8a0494a4c12c5f9c39ce9ec35dfa56ea7b130">
+        <dex dex="/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_584372488c0e25e740162c044bf08ddc0d195f17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="12d3a3ddaa5be7fcf6da87e2e3482a7b14a729ff">
+        <dex dex="/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c1c325d6f7a9c6eeb9a0341a4ebfcdc6184c521/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndhillon/Desktop/Calc Link Board/new-project-template/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d954238692289e7eef62821f2cec0063f13feceb">
+        <dex dex="/Users/ndhillon/Desktop/Calc Link Board/new-project-template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0f15fbee2516f733264337f56ac3d87ead3ca6a8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ndhillon/Desktop/Calc Link Board/new-project-template/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d9e1bf644c6f332d76bed54c32973d12bf045bb8">
+        <dex dex="/Users/ndhillon/Desktop/Calc Link Board/new-project-template/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a42dcd20c72efe9c12654233212f9aaa7071e6c0/classes.dex" />
+    </item>
+
+</items>

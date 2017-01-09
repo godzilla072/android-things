@@ -1,0 +1,7 @@
+#Sun Jan 08 17:18:16 PST 2017
+base.0=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c1c325d6f7a9c6eeb9a0341a4ebfcdc6184c521
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_584372488c0e25e740162c044bf08ddc0d195f17/classes.dex
+base.1=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_584372488c0e25e740162c044bf08ddc0d195f17
+file.0=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4c1c325d6f7a9c6eeb9a0341a4ebfcdc6184c521/classes.dex

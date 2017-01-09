@@ -1,0 +1,9 @@
+#Internal package file, do not edit.
+#Sun Jan 08 17:18:13 PST 2017
+1.file=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+1.set=ANDROID_RESOURCE
+0.file=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.base=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/res/resources-debug.ap_
+0.base=/Users/ndhillon/Desktop/Calc Link Board/android-things/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+count=2
